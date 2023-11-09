@@ -12,4 +12,4 @@ run StructureData
 
 run visData
 
-* See documentation for further details and alternate version details: [a link](https://github.com/C-ACT/Percept-LFP-Toolbox/blob/main/PD%20Percept%20Documentation.pdf)
+* See [documentation pdf] for further details and alternate version details(https://github.com/C-ACT/Percept-LFP-Toolbox/blob/main/PD%20Percept%20Documentation.pdf)
