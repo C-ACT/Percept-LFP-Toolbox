@@ -1,8 +1,5 @@
 # Percept-LFP-Toolbox
-Uses JSON LFPTrendLogs upload by Percept Toolbox - YohannThenaisie / PerceptToolbox; Image Medtronic Percept LFP DBS ChronicLFP/ at-home streaming along with contact configuaration information. To Do: Spectrorams from in office live- streaming
-
-
-PerceptToolbox by Thenaisie et al 2022 is labeled as "Toolbox"
+PerceptToolbox; Image Medtronic Percept LFP DBS ChronicLFP/ at-home streaming along with contact configuaration information. Uses JSON LFPTrendLogs upload by Percept Toolbox - YohannThenaisie for initial json extractions. PerceptToolbox by Thenaisie et al 2022 is labeled as "Toolbox."
 
 Order to run:
 
