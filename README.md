@@ -4,11 +4,12 @@ Uses JSON LFPTrendLogs upload by Percept Toolbox - YohannThenaisie / PerceptTool
 
 PerceptToolbox by Thenaisie et al 2022 is labeled as "Toolbox"
 
-Order:
-
+Order to run:
 
 run loadJSON2 (in same folder or subfolder)
 
 run StructureData
 
 run visData
+
+* See documentation for further details and alternate version details: [a link](https://github.com/C-ACT/Percept-LFP-Toolbox/blob/main/PD%20Percept%20Documentation.pdf)
